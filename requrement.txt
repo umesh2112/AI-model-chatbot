@@ -1,2 +1,3 @@
 pip install flask --upgrade
 pip install Jinja2==3.0.3
+pip install transformers
