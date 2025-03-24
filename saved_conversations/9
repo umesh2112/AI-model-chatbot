@@ -1,0 +1,9 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : hello
+bot : - Hi. How are you feeling today?
+user : im not feeling well 
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : im getting allergy
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : my symotoms are headache allergy etc
+bot : - symptom noted. Migraines tend to be recurrent, and each attack may last up to 3 days. would you like to talk to a doctor?

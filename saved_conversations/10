@@ -1,0 +1,25 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : hi
+bot : - Hello. How are you feeling today?
+user : fine
+bot : - good to know. how may i assist you then?
+user : who are you
+bot : - I am priyankas Ai model, I was trained by Priyanka .
+user : im having head ache
+bot : - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+user : 3
+bot : - - What is your number
+user : 99524884
+bot : - - Can I ask you anything?
+user : yes
+bot : - Bye. Nice talking to you
+user : bye
+bot : - Bye. Nice talking to you
+user : im having alergy
+bot : - You should take a sudafed tablet after your meal.
+user : is it safe 
+bot : - ok, is there a swelling or a physical deformity or bleeding at the aching region.
+user : no
+bot : - Okay! Thank you have a great day
+user : yes
+bot : - Bye. Nice talking to you
